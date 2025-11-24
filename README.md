@@ -51,12 +51,6 @@ It’s the kind of work that makes me excited to wake up and learn more.
 
 ---
 
-## 📂 Some of my favorite repos
-- **Algorithms-Notes** – clean notes written to understand things, not memorise them  
-- **ML-Projects** – simple ML experiments, learning by doing  
-- **BioML-Experiments** – where my biology + ML curiosity lives  
-
----
 
 ## 💌 Connect with me
 If you like ML, biology, or building things that matter, I’d love to chat.
